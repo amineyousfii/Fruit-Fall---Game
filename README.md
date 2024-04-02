@@ -1,6 +1,7 @@
 # Fruit-Fall---Game
 
-This is a simple fruit game, it displays fruits on the screen, and when you click on a fruit, your score increases. The game ends after displaying 10 fruits, and the highest score achievable is 10.
+This is a simple fruit game, it displays fruits on the screen, and when you click on a fruit, your score increases. 
+The game ends after displaying 10 fruits, and the highest score achievable is 10.
 
 ## How to Play
 
